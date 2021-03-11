@@ -1,7 +1,7 @@
 {
-  "name": "mohamed",
+  "name": "ari",
   "version": "2.1.0",
-  "description": "-- AWESOMENESS --",
+  "description": "FIRE FORCE",
   "main": "ari.js",
   "scripts": {
     "start": "node ari.js"
