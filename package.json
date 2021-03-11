@@ -2,9 +2,9 @@
   "name": "mohamed",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "index.js",
+  "main": "ari.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ari.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
